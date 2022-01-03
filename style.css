@@ -1,0 +1,13 @@
+* {
+  background-color: burlywood;
+  
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+  text-shadow: chocolate;
+  font-family: "Courier New", Courier, monospace;
+}
+#shan {
+  background-image: none;
+}
