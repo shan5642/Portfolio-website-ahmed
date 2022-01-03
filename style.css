@@ -43,3 +43,9 @@ section {
 .dream-big img {
   width: 100%;
 }
+.experience {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 25px;
+}
