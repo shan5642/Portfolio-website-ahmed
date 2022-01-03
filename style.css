@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   font-family: "Poppins", sans-serif;
 }
 h1 {
@@ -10,14 +11,24 @@ h1 {
 .description {
   width: 50%;
   color: burlywood;
-  padding-right: 25%;
+  padding-right: 5%;
+  padding-top: 5%;
 }
 .description img {
-  width: 140%;
+  width: 100%;
 }
 section {
   display: flex;
 }
-p {
-  text-align: justify;
+.link-button {
+  text-decoration: none;
+  color: aliceblue;
+  background-image: linear-gradient(rgb(0, 0, 0), grey);
+  padding: 15px 40px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.top-banner {
+  background-image: url(icon/top-banner.png);
+  background-repeat: no-repeat;
 }
