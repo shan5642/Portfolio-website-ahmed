@@ -10,9 +10,10 @@ h1 {
 }
 .description {
   width: 50%;
-  color: burlywood;
+  color: rgb(119, 81, 30);
   padding-right: 5%;
   padding-top: 5%;
+  padding-left: 5%;
 }
 .description img {
   width: 100%;
@@ -23,7 +24,7 @@ section {
 .link-button {
   text-decoration: none;
   color: aliceblue;
-  background-image: linear-gradient(rgb(0, 0, 0), grey);
+  background-image: linear-gradient(rgb(134, 13, 13), rgb(245, 89, 89));
   padding: 15px 40px;
   border-radius: 10px;
   font-weight: bold;
@@ -31,4 +32,14 @@ section {
 .top-banner {
   background-image: url(icon/top-banner.png);
   background-repeat: no-repeat;
+}
+.dream-big {
+  margin-top: 12%;
+  width: 90%;
+  background-image: url(icon/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.dream-big img {
+  width: 100%;
 }
