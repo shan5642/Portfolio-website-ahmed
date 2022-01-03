@@ -1,13 +1,23 @@
-* {
-  background-color: burlywood;
-  
+body {
+  font-family: "Poppins", sans-serif;
 }
 h1 {
-  text-align: center;
-  color: blueviolet;
-  text-shadow: chocolate;
-  font-family: "Courier New", Courier, monospace;
+  font-size: 70px;
 }
-#shan {
-  background-image: none;
+.grey-color {
+  color: grey;
+}
+.description {
+  width: 50%;
+  color: burlywood;
+  padding-right: 25%;
+}
+.description img {
+  width: 140%;
+}
+section {
+  display: flex;
+}
+p {
+  text-align: justify;
 }
